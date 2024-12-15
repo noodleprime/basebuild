@@ -79,3 +79,4 @@ DerivedDataCache/*
 
 # Helps weed out weird commit issues if they just aren't allowed in the repo
 /BaseBuild/Plugins
+/BaseBuild/Binaries
